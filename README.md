@@ -1,6 +1,6 @@
 # The MarkLogic Sesame API v1.0.0
 
-## Introduction
+## Jane's Introduction
 
 The MarkLogic Sesame API is a [Sesame](http://rdf4j.org/) Repository implementation exposing [MarkLogic](http://www.marklogic.com) semantic [features](http://www.marklogic.com/what-is-marklogic/features/semantics/).
 
@@ -13,7 +13,7 @@ The MarkLogic Sesame API is a [Sesame](http://rdf4j.org/) Repository implementat
 
 ## Quick Start / Usage
 
-_IMPORTANT_ - NO RELEASE TO MAVEN YET, YOU MUST BUILD SOFTWARE
+_IMPORTANT_ - NO RELEASE TO MAVEN YET, YOU MUST BUILD the SOFTWARE
 
 For gradle projects, include:
 
